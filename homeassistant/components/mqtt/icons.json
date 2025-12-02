@@ -1,0 +1,18 @@
+{
+  "services": {
+    "publish": {
+      "service": "mdi:publish"
+    },
+    "dump": {
+      "service": "mdi:database-export"
+    },
+    "reload": {
+      "service": "mdi:reload"
+    }
+  },
+  "triggers": {
+    "mqtt": {
+      "trigger": "mdi:swap-horizontal"
+    }
+  }
+}
