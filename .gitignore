@@ -1,0 +1,11 @@
+# Development folders and files to be removed from the repo
+/homeassistant/
+/machine/
+/pylint/
+/script/
+/tests/
+/core_files.yaml
+/requirements.txt
+/requirements_test.txt
+/requirements_all.txt
+/constraints-*.txt
