@@ -15,7 +15,7 @@ import homeassistant.helpers.config_validation as cv
 
 from .const import (
     CONF_LOCAL_KEY,
-    CONF_PROTOCOL_VERSION,
+    CONF_PROTOCOL_VERSION,
     DEFAULT_PROTOCOL_VERSION,
     DOMAIN,
     PROTOCOL_VERSIONS,
